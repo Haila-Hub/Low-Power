@@ -10,6 +10,8 @@ Devices Supported:
 * ATMega168
 * ATMega168P
 * ATMega328P
+* ATMega168PB
+* ATMega328PB
 * ATMega32U4
 * ATMega644P
 * ATMega1284P
